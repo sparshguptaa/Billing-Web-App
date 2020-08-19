@@ -1,0 +1,6 @@
+E:\training\Billing App\Billing App\bin\Billing App.dll
+E:\training\Billing App\Billing App\bin\Billing App.pdb
+E:\training\Billing App\Billing App\obj\Debug\Billing App.dll
+E:\training\Billing App\Billing App\obj\Debug\Billing App.pdb
+E:\training\Billing App\Billing App\obj\Debug\Billing App.csprojAssemblyReference.cache
+E:\training\Billing App\Billing App\obj\Debug\Billing App.csproj.CoreCompileInputs.cache

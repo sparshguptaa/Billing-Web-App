@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://webroot.net.in" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="Sparshwebroot" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Global.asax" publishTime="04/28/2020 14:23:47" />
+    <file relUrl="Site.Master" publishTime="04/28/2020 14:23:47" />
+    <file relUrl="Styles/Site.css" publishTime="04/28/2020 14:23:47" />
+    <file relUrl="About.aspx" publishTime="04/28/2020 14:23:47" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="04/28/2020 14:23:47" />
+    <file relUrl="pd.jpg" publishTime="05/02/2020 19:48:40" />
+    <file relUrl="bin/Billing App.dll" publishTime="08/13/2020 02:30:58" />
+    <file relUrl="Account/Register.aspx" publishTime="04/28/2020 14:23:47" />
+    <file relUrl="Account/Login.aspx" publishTime="04/28/2020 14:23:47" />
+    <file relUrl="Account/Web.config" publishTime="04/28/2020 14:23:47" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="04/28/2020 14:23:47" />
+    <file relUrl="financialYear.jpg" publishTime="05/02/2020 19:31:46" />
+    <file relUrl="productdetails.jpg" publishTime="05/02/2020 19:31:46" />
+    <file relUrl="Default.aspx" publishTime="04/28/2020 14:28:36" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="04/28/2020 14:23:47" />
+    <file relUrl="productdetails.aspx" publishTime="05/03/2020 15:38:10" />
+    <file relUrl="TextboxHS.png" publishTime="05/02/2020 18:46:04" />
+    <file relUrl="partydetails.aspx" publishTime="05/03/2020 15:38:55" />
+    <file relUrl="database.aspx" publishTime="05/06/2020 21:02:57" />
+    <file relUrl="413224-PDFK95-709.jpg" publishTime="05/02/2020 18:58:52" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="04/28/2020 14:23:47" />
+    <file relUrl="bin/Billing App.pdb" publishTime="08/13/2020 02:30:57" />
+    <file relUrl="Form1.aspx" publishTime="05/05/2020 19:32:11" />
+    <file relUrl="FinanacialYear.aspx" publishTime="05/03/2020 14:28:39" />
+    <file relUrl="client.jpg" publishTime="05/02/2020 19:31:46" />
+    <file relUrl="invoice.aspx" publishTime="05/06/2020 00:30:07" />
+    <file relUrl="Web.config" publishTime="08/13/2020 02:35:48" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="04/28/2020 14:23:47" />
+  </publishProfile>
+</publishData>
